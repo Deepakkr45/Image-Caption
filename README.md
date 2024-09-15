@@ -1,2 +1,2 @@
-# Image-Caption
-Image Caption
+# Image-Captioning
+Image Captioning
